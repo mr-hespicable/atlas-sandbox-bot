@@ -1,4 +1,4 @@
-def main():
+def main(): #hello :)
     import pyautogui as pg
     import time
 
