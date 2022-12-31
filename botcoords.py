@@ -25,7 +25,7 @@ def main(): #hello :)
         time.sleep(0.5)
         pg.moveTo(1173, 909) 
         time.sleep(0.5)
-        pg.click()
+        pg.click()xq
         time.sleep(0.5)
         pg.moveTo(1223, 909)
         time.sleep(0.5)
