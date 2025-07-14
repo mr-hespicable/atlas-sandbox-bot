@@ -1,5 +1,5 @@
 # atlas-sandbox-bot
-bot that automatically buys and sells bags of coins in atlas sandbox
+scripting program that automatically buys and sells bags of coins in atlas sandbox (minecraft server)
 
 IMPORTANT INFORMATION
 - stop the program by moving your mouse to the corner of the screen
